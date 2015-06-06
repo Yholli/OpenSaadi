@@ -1,5 +1,5 @@
-# gsadist
-Translations of a Selection of Sadi's Golestan
+# OpenSaadi
+Open Src Translations of a Selection of Sadi's Golestan
 
 <p>
 an elephant keeper by the river Nile said &nbsp;                           <i>ham chonann dar fek reh ann bay tam kegoft </i><br />
